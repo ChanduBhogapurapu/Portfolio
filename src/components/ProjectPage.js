@@ -31,7 +31,17 @@ const ProjectPage = () => {
           </p>
         </div>
         <div className="project">
-          <p>Project 3</p>
+          <p>Project 4</p>
+          <p>Github Profile Finder</p>
+          <p>
+            <span>It allows users to search for GitHub profiles by username, displaying relevant details such as repositories, followers, and contributions in a clean interface.</span>
+            <a href="https://github.com/ChanduBhogapurapu/GitFinder.git">
+              Tap to view
+            </a>
+          </p>
+        </div>
+        <div className="project">
+          <p>Project 4</p>
           <p>Chat Application using Angular JS</p>
           <p>
             <span>This project enables real-time messaging, seamless communication with a responsive interface. It leverages AngularJS for dynamic content updates.</span>
