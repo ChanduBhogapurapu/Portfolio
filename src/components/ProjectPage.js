@@ -31,7 +31,7 @@ const ProjectPage = () => {
           </p>
         </div>
         <div className="project">
-          <p>Project 4</p>
+          <p>Project 3</p>
           <p>Github Profile Finder</p>
           <p>
             <span>It allows users to search for GitHub profiles by username, displaying relevant details such as repositories, followers, and contributions in a clean interface.</span>
